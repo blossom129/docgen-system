@@ -1,0 +1,6 @@
+site_name: Документация проекта
+nav:
+  - Главная: index.md
+  - Требования: requirements.md
+theme:
+  name: material
